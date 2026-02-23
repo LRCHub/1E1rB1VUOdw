@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シーズインラヴ",
+  "base_artist": "sanetii",
+  "createdAt": "2026-02-23T17:26:15.181526Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シーズインラヴ ロマンスver.",
+      "artist": "sanetii",
+      "has_synced": false,
+      "path": "select/pl_01_シーズインラヴ_ロマンスver._sanetii.txt"
+    }
+  ]
+}
